@@ -1,0 +1,12 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>coconut-smoothie.jpg</file>
+    <file>menus-from-mango-5.jpg</file>
+    <file>thai-tea.jpg</file>
+    <file>Cocoa-Shake-Cornflakes.jpg</file>
+    <file>Oreo.jpg</file>
+    <file>smoothie-menu-1.jpg</file>
+    <file>smoothie-menu-2.jpg</file>
+    <file>Latte-Frappe.jpg</file>
+  </qresource>
+</RCC>
